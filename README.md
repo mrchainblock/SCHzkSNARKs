@@ -1,1 +1,1 @@
-SCH + zkSNARKs
+zz + zkSNARKs
